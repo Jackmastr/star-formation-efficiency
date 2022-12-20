@@ -1,0 +1,4 @@
+optimize_results/
+_*
+*.err
+*.out
